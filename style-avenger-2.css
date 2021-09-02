@@ -29,3 +29,7 @@ b{
 #menu a:hover{
      color: #5077bd;
 }
+
+.gallery img{
+    width: 100%;
+}
