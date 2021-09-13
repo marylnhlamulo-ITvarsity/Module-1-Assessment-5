@@ -27,7 +27,23 @@ b{
 }
 
 #menu a:hover{
-     color: #5077bd;
+     color: #353a42;
+}
+
+h1{
+    color: #4fcdff;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+.gallery img{
+    width: 100%;
+}
+
+h2{
+    color: #4fcdff;
 }
 
 .gallery img{
